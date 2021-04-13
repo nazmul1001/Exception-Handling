@@ -19,3 +19,4 @@ except Exception as e:
 
 finally:
     print("Resource closed. Bye")
+#Adding a comment
